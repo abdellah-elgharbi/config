@@ -1,4 +1,4 @@
-server.port=8091
+server.port=8090
 spring.data.mongodb.username=alibou
 spring.data.mongodb.password=alibou
 spring.data.mongodb.port=27017
